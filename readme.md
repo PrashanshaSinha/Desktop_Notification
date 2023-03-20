@@ -1,0 +1,1 @@
+A simple notification system with Python which notify in every 60 minutes to Take a Break For a healthy EYE.
